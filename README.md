@@ -1,5 +1,5 @@
 # go-up  
-This my first npm package
+This my first NPM package
 
 
 ## Installation
