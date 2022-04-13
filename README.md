@@ -6,13 +6,13 @@ This my first NPM package
 Use the package manager [npm](https://docs.npmjs.com/) to install go-up
 
 ```bash
-npm install go-up
+npm install go-up-uz
 ```
 
 ## Easy usage
 
 ```javascript
-import GoUp from 'go-up
+import GoUp from 'go-up'
 
 return (
   <div>
